@@ -17,7 +17,7 @@ Skills: HTML / CSS/ JS / REACT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faruqdigital&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Faruqdigital)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Faruqdigital&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/Faruqdigital)  
 

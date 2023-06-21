@@ -1,3 +1,5 @@
+![image](https://github.com/Faruqdigital/Faruqdigital/assets/107166036/e19a693d-8387-4e56-bd4c-26f4bc403e11)
+
 ### Hi there 👋, my name is Faruq Hossain
 #### Front-End-Developer | Designer
 ![Front-End-Developer | Designer](https://media.licdn.com/dms/image/D5616AQEts2F9GJq53w/profile-displaybackgroundimage-shrink_350_1400/0/1671701972812?e=1680134400&v=beta&t=_8hx4-YozMgXUDq9A1lujzNv_dxJOOHxOAljnMcgPuI)
